@@ -68,7 +68,19 @@ DIVIDE([Gross Profit], [Total Revenue], 0)
 | :---: |
 | ![Dashboard 5](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/refs/heads/main/GM%20TOOLTIP.png) |
 
----
+
+
+
+![Dashboard 1](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/main/Revenue%20&%20Margin.png)
+
+![Dashboard 2](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/main/income%20statement.png)
+
+![Dashboard 3](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/main/Financial%20Simulator.png)
+
+![Dashboard 4](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/main/REVENUE%20TOOLTIP.png)
+
+![Dashboard 5](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/main/GM%20TOOLTIP.png)
+
 
 
 🛠️ Tech Stack & Tools
