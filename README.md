@@ -59,24 +59,16 @@ DIVIDE([Gross Profit], [Total Revenue], 0)
 
 هنا نظرة شاملة على أقسام التقرير المالي التفاعلي:
 
-| :---: | :---: |
-| ![Dashboard 1](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/refs/heads/main/Revenue%20%26%20Margin.png) | ![Dashboard 2](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/refs/heads/main/income%20statement.png)|
 
-| :---: | :---: |
-| ![Dashboard 3](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/refs/heads/main/Financial%20Simulator.png) |![Dashboard 4](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/refs/heads/main/REVENUE%20TOOLTIP.png) |
+![Dashboard 1](https://github.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/raw/main/Revenue%20&%20Margin.png)
 
-| :---: |
-| ![Dashboard 5](https://raw.githubusercontent.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/refs/heads/main/GM%20TOOLTIP.png) |
+![Dashboard 2](https://github.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/raw/main/income%20statement.png)
 
+![Dashboard 3](https://github.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/raw/main/Financial%20Simulator.png)
 
+![Dashboard 4](https://github.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/raw/main/REVENUE%20TOOLTIP.png)
 
-<img width="308" height="282" alt="GM TOOLTIP" src="https://github.com/user-attachments/assets/b5c5ed0f-a756-4ed6-9888-7e522ba60ab8" />
-<img width="311" height="288" alt="REVENUE TOOLTIP" src="https://github.com/user-attachments/assets/5759b832-2555-4354-96a0-2b5bddc0f2ff" />
-<img width="929" height="537" alt="Financial Simulator" src="https://github.com/user-attachments/assets/1fc500f4-7034-4b19-b428-84cd4d6b9f8a" />
-<img width="929" height="537" alt="income statement" src="https://github.com/user-attachments/assets/bbfc2270-4531-40aa-b28f-ff1ba4e16deb" />
-<img width="929" height="537" alt="Revenue   Margin" src="https://github.com/user-attachments/assets/6d0dae1d-0a10-43e9-8067-631584d92dc8" />
-
-
+![Dashboard 5](https://github.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/raw/main/GM%20TOOLTIP.png)
 
 
 
