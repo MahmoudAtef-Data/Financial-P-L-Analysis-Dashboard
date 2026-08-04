@@ -59,13 +59,15 @@ DIVIDE([Gross Profit], [Total Revenue], 0)
 
 هنا نظرة شاملة على أقسام التقرير المالي التفاعلي:
 
-<p align="center">
-  <img src="./Revenue & Margin.png" width="100%">
-  <img src="./income statement.png" width="100%">
-  <img src="./Financial Simulator.png" width="100%">
-  <img src="./REVENUE TOOLTIP.png" width="100%">
-  <img src="./GM TOOLTIP.png" width="100%">
-</p>
+![Dashboard 1](<Revenue & Margin.png>)
+
+![Dashboard 2](<income statement.png>)
+
+![Dashboard 3](<Financial Simulator.png>)
+
+![Dashboard 4](<REVENUE TOOLTIP.png>)
+
+![Dashboard 5](<GM TOOLTIP.png>)
 
 
 
