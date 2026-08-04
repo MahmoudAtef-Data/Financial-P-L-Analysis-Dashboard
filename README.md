@@ -59,16 +59,13 @@ DIVIDE([Gross Profit], [Total Revenue], 0)
 
 هنا نظرة شاملة على أقسام التقرير المالي التفاعلي:
 
-
-![Dashboard 1](https://github.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/raw/main/Revenue%20&%20Margin.png)
-
-![Dashboard 2](https://github.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/raw/main/income%20statement.png)
-
-![Dashboard 3](https://github.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/raw/main/Financial%20Simulator.png)
-
-![Dashboard 4](https://github.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/raw/main/REVENUE%20TOOLTIP.png)
-
-![Dashboard 5](https://github.com/MahmoudAtef-Data/Financial-P-L-Analysis-Dashboard/raw/main/GM%20TOOLTIP.png)
+<p align="center">
+  <img src="./Revenue & Margin.png" width="100%">
+  <img src="./income statement.png" width="100%">
+  <img src="./Financial Simulator.png" width="100%">
+  <img src="./REVENUE TOOLTIP.png" width="100%">
+  <img src="./GM TOOLTIP.png" width="100%">
+</p>
 
 
 
